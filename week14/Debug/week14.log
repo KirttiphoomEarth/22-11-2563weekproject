@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\KIRTTIPHOOM\source\week14\week14\Source.cpp(6,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\KIRTTIPHOOM\source\week14\week14\Source.cpp(6,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  week14.vcxproj -> C:\Users\KIRTTIPHOOM\source\week14\Debug\week14.exe
